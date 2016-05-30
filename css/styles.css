@@ -52,3 +52,9 @@
   background-color: #DDE8CB;
   font-family: 'Oxygen', sans-serif;
 }
+
+@media (max-width: 992px) {
+  
+  /* Home Page */
+  .container {width: 80%;
+  }
